@@ -1,2 +1,6 @@
 # Count-down-Timer
-HTML, CSS, JS
+
+It is basic project created using HTML, CSS, JS.
+Helps you to understand date() method of JS
+
+
